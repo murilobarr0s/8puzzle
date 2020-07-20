@@ -1,0 +1,22 @@
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\bin\Debug\PuzzleIA.exe.config
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\bin\Debug\PuzzleIA.exe
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\bin\Debug\PuzzleIA.pdb
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.csprojResolveAssemblyReference.cache
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.Form1.resources
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.Properties.Resources.resources
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.csproj.GenerateResource.Cache
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.exe
+C:\Users\Murilo Barros\Desktop\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.pdb
+F:\trab IA\PuzzleIA\PuzzleIA\bin\Debug\PuzzleIA.exe.config
+F:\trab IA\PuzzleIA\PuzzleIA\bin\Debug\PuzzleIA.exe
+F:\trab IA\PuzzleIA\PuzzleIA\bin\Debug\PuzzleIA.pdb
+F:\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.csprojResolveAssemblyReference.cache
+F:\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.Form1.resources
+F:\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.Properties.Resources.resources
+F:\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.csproj.GenerateResource.Cache
+F:\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.csproj.CoreCompileInputs.cache
+F:\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.exe
+F:\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.pdb
+C:\Users\Murilo Barros\Desktop\trab IA\PuzzleIA\PuzzleIA\bin\Debug\PuzzleIA.exe.config
+C:\Users\Murilo Barros\Desktop\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.exe
+C:\Users\Murilo Barros\Desktop\trab IA\PuzzleIA\PuzzleIA\obj\Debug\PuzzleIA.pdb
